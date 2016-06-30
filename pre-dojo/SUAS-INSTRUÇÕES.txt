@@ -1,0 +1,4 @@
+Especifique o caminho do log na variavel path na classe Principal KillersLog.java;
+Não consegui ordenar o ranking pois não tive tempo habil.
+
+
